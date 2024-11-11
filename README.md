@@ -1,8 +1,8 @@
 <div align="center">
   <br />
-    <h1>PrimeView Movie Provider Website</h1>
+    <h1>SpaceThemed  Website</h1>
   <br />
-  <img src="./docs/landing.png" alt="Onbording Screen"  width="100%" height="auto"/>
+  <img src="./docs/landing.png" alt="SpaceThemed Screen"  width="100%" height="auto"/>
   <br />
   <div>
     <br/>
@@ -57,8 +57,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/DarkShadowCoder/PrimeView-Website.git
-cd PrimeView-Website
+git clone https://github.com/DarkShadowCoder/SpaceThemed-Website.git
+cd SpaceThemed-Website
 ```
 
 **Installation**
@@ -72,7 +72,7 @@ npm install
 **Running the Project**
 
 ```bash
-npx expo start --android
+npm run dev
 ```
 
 Open ExpoGo in your mobile phone and scan QR code.
